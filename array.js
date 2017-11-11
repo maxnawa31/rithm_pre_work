@@ -26,3 +26,8 @@ returns false;
 var combinedArr = arr.concat(arr2);
 
 Part 2:
+var arr = ["Javascript", "Python", "Ruby", "Java"];
+1)var newArr = arr.slice(1,3);
+2)newArr.concat(["Haskell","Clojure"]);
+4) arr[0] + ", " + arr[1] + ", " + arr[2] + ", " + arr[3]
+s
