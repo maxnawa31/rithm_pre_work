@@ -21,3 +21,13 @@ function createCalculator(){
 
   }
 }
+
+Hoisting Exercises:
+1)"Tim";
+2)firstName not defined;
+3)undefined;
+4)firstName not defined;
+5)Hi undefined;
+6)Hi + firstName not defined;
+7)"Hi!";
+8)sayHi is not a function
